@@ -8,8 +8,8 @@ import "./globals.css"
 const outfit = Outfit({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Alex Coder | Python Developer & Musician",
-  description: "Portfolio of Alex, Python developer and musician",
+  title: "I₦G | Musician",
+  description: "Portfolio of I₦G, Python developer and musician",
 }
 
 export default function RootLayout({
